@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 # Tan Guo Zhi Kelvin - @kelvinn44
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World,+I'm+Kelvin"))
 Currently pursuing a Diploma in Information Technology, specialising in Cloud Computing (Year 2.2) at [Ngee Ann Polytechnic](https://www.np.edu.sg/schools-courses/academic-schools/school-of-infocomm-technology/diploma-in-information-technology)
 
-[![linkedIn](https://img.shields.io/badge/-@kelvintan44-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/kelvintan44/)  
-[![Telegram](https://img.shields.io/badge/-@kelvinnn44-161616?style=flat-square&labelColor=161616&logo=Telegram&logoColor=white&color=161616)](https://t.me/kelvinnn44)
+<!-- [![linkedIn](https://img.shields.io/badge/-@kelvintan44-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/kelvintan44/)  
+[![Telegram](https://img.shields.io/badge/-@kelvinnn44-161616?style=flat-square&labelColor=161616&logo=Telegram&logoColor=white&color=161616)](https://t.me/kelvinnn44) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kelvintan44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvintan44/)
+[![Telegram](https://img.shields.io/badge/Telegram-kelvinnn44-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kelvinnn44)
 
 ## Tech Stack
 
@@ -36,11 +39,13 @@ Currently pursuing a Diploma in Information Technology, specialising in Cloud Co
 ![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Databases
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RestDB](https://img.shields.io/badge/RestDB-005BBB?style=for-the-badge&logo=restdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Programming Langauges
 
@@ -55,7 +60,10 @@ Currently pursuing a Diploma in Information Technology, specialising in Cloud Co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-FF4500?style=for-the-badge&logo=replit&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Professional Tools
 
@@ -80,19 +88,20 @@ Currently pursuing a Diploma in Information Technology, specialising in Cloud Co
 ![Listening to Music](https://img.shields.io/badge/Listening%20to%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)
 ![Travelling](https://img.shields.io/badge/Travelling-FF5733?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Running](https://img.shields.io/badge/Running-FF6F61?style=for-the-badge&logo=strava&logoColor=white)
-![Water Sports](https://img.shields.io/badge/Water%20Sports-00AEEF?style=for-the-badge&logo=surfshark&logoColor=white)
-![Exploring](https://img.shields.io/badge/Exploring-6A0DAD?style=for-the-badge&logo=compass&logoColor=white)
+![Water Sports](https://img.shields.io/badge/Water%20Sports-00AEEF?style=for-the-badge&logo=aqua&logoColor=white)
+![Exploring](https://img.shields.io/badge/Exploring-6A0DAD?style=for-the-badge&logo=safari&logoColor=white)
+![Concerts](https://img.shields.io/badge/Concerts-C70039?style=for-the-badge&logo=tickets&logoColor=white)
 
 <!--
 ## Projects
-TODO: add projects
+TODO: add projects showcase section
 -->
 
 ## Misc
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://streak-stats.demolab.com?user=kelvinn44&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kelvinn44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
