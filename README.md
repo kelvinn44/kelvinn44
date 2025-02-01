@@ -25,6 +25,8 @@ Currently pursuing a Diploma in Information Technology, specialising in Cloud Co
 
 [![Telegram](https://img.shields.io/badge/Telegram-kelvinnn44-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kelvinnn44)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-9B59B6?style=for-the-badge)](https://tanguozhikelvin.vercel.app/)
+
 
 ## 🛠️ Tech Stack
 
